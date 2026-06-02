@@ -88,7 +88,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ramdhanifauzi21/ramdhanifauzi21/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/ramdhanifauzi21/ramdhanifauzi21/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
