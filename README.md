@@ -55,6 +55,7 @@
 | **OS & Scripting**                   | ![][linux] ![][bash]             |
 | **Programming Language**             | ![][go] ![][nodejs] ![][php]     |
 | **Database**                         | ![][mysql] ![][postgresql]       |
+| **VCS**                              | ![][git] ![][github]             |
 
 <!-- BADGE DEFINITIONS -->
 
@@ -79,8 +80,7 @@
 [mysql]: https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 [postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [git]: https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
-
-## [github]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+[github]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
 
 ###
 
