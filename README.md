@@ -44,7 +44,7 @@
 
 |                                      |                                  |
 | ------------------------------------ | -------------------------------- |
-| **Cloud & Infrastructure**           | ![][idcloudhost]                 |
+| **Cloud & Infrastructure**           | ![][aws] ![][idcloudhost]        |
 | **Infrastructure as Code**           | ![][terraform] ![][ansible]      |
 | **Containerization & Orchestration** | ![][docker] ![][kubernetes]      |
 | **Package Manager**                  | ![][helm]                        |
@@ -53,12 +53,13 @@
 | **Monitoring & Logging**             | ![][prometheus] ![][grafana]     |
 | **Web Server & Proxy**               | ![][nginx]                       |
 | **OS & Scripting**                   | ![][linux] ![][bash]             |
-| **Programming Language**             | ![][go] ![][nodejs] ![][php]     |
+| **Programming Language**             | ![][python] ![][go] ![][nodejs] ![][php]     |
 | **Database**                         | ![][mysql] ![][postgresql]       |
 | **VCS**                              | ![][git] ![][github]             |
 
 <!-- BADGE DEFINITIONS -->
 
+[aws]: https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white
 [idcloudhost]: https://img.shields.io/badge/IDCloudHost-0066CC?style=flat&logo=icloud&logoColor=white
 [terraform]: https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white
 [ansible]: https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white
@@ -74,6 +75,7 @@
 [nginx]: https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white
 [linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white
+[python]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 [go]: https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
 [nodejs]: https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
@@ -81,11 +83,5 @@
 [postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [git]: https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 [github]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ramdhanifauzi21/ramdhanifauzi21/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-</div>
 
 ###
